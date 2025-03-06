@@ -48,7 +48,6 @@ pyobjc==11.0
 pyobjc-core==11.0
 pyobjc-framework-Accessibility==11.0
 pyobjc-framework-Accounts==11.0
-pyobjc-framework-AddressBook==11.0
 pyobjc-framework-AdServices==11.0
 pyobjc-framework-AdSupport==11.0
 pyobjc-framework-AppleScriptKit==11.0
